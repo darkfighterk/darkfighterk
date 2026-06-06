@@ -132,9 +132,9 @@ const anjana: Developer = {
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=darkfighterk&repo=YOUR_REPO_NAME&hide_border=true&bg_color=080b0f&title_color=22C55E&text_color=8b949e&icon_color=22C55E)](https://github.com/darkfighterk/YOUR_REPO_NAME)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=darkfighterk&repo=POS_systerm_laravel&hide_border=true&bg_color=080b0f&title_color=22C55E&text_color=8b949e&icon_color=22C55E)](https://github.com/darkfighterk/YOUR_REPO_NAME)
 &nbsp;
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=darkfighterk&repo=YOUR_REPO_NAME_2&hide_border=true&bg_color=080b0f&title_color=22C55E&text_color=8b949e&icon_color=22C55E)](https://github.com/darkfighterk/YOUR_REPO_NAME_2)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=darkfighterk&repo=Little_Minds_App_2&hide_border=true&bg_color=080b0f&title_color=22C55E&text_color=8b949e&icon_color=22C55E)](https://github.com/darkfighterk/YOUR_REPO_NAME_2)
 
 </div>
 
