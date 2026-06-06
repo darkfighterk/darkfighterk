@@ -138,7 +138,7 @@ const anjana: Developer = {
 
 </div>
 
-> Replace `YOUR_REPO_NAME` and `YOUR_REPO_NAME_2` with your actual repo names.
+> Replace `POS_systerm_laravel` and `Little_Minds_App` with your actual repo names.
 
 <br/>
 
