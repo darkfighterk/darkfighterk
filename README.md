@@ -33,14 +33,14 @@ const anjana = {
   name:       "Anjana Tharindu",
   handle:     "@darkfighterk",
   location:   "Agawaththa, Sri Lanka 🇱🇰",
-  education:  "BSc (Hons) Computer Science — Undergraduate",
+  education:  "BSc (Hons)  Software Engineering — Undergraduate",
   focus:      ["Full Stack Web", "Mobile Development", "Open Source"],
   available:  true,
   funFact:    "I turn coffee ☕ into code at midnight 🌙",
 };
 ```
 
-- 🎓 Currently pursuing my **BSc in Computer Science**
+- 🎓 Currently pursuing my **BSc in  Software Engineering**
 - 💻 Passionate about **web & mobile** app development
 - 🌱 Always learning — currently diving deeper into **TypeScript & DevOps**
 - 🤝 Open to **collaborations**, **internships**, and **open source contributions**
@@ -156,22 +156,22 @@ An **educational mobile app for children** with interactive lessons and parent m
 ## 🎓 Career Timeline
 
 ```
-2024 – Present  ● 3RD Year Student
-                  BSc (Hons) Computer Science
+2026 – Present  ● 3RD Year Student
+                  BSc (Hons)  Software Engineering
                   Working on POS System (Laravel) final year project.
                   Active open source contributor on GitHub.
 
-2023            ○ University Project
+2025            ○ University Project
                   Little Minds App — Flutter
                   Built an educational mobile app for children with
                   interactive lessons, progress tracking & parent dashboard.
 
-2022            ○ University Project
+2025            ○ University Project
                   POS System — Laravel
                   Designed and developed a full POS system with inventory,
                   invoicing and role-based access control.
 
-2020 – Present  ○ BSc Computer Science
+2023 – Present  ○ BSc  Software Engineering
                   University — Sri Lanka
                   Algorithms, data structures, software engineering,
                   mobile development, and web technologies.
