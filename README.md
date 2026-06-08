@@ -13,7 +13,7 @@
 <!-- Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-darkfighterk-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darkfighterk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anjana_Tharindu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjana-tharindu-379ab137a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.com-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://darkfighterk.github.io/portfolio-project)
 [![Email](https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akanjanatharindu@gmail.com)
 
 <br/>
@@ -33,14 +33,15 @@ const anjana = {
   name:       "Anjana Tharindu",
   handle:     "@darkfighterk",
   location:   "Agawaththa, Sri Lanka 🇱🇰",
-  education:  "BSc (Hons)  Software Engineering — Undergraduate",
+  education:  "BSc (Hons) Software Engineering — Undergraduate",
   focus:      ["Full Stack Web", "Mobile Development", "Open Source"],
+  portfolio:  "https://darkfighterk.github.io/portfolio-project",
   available:  true,
   funFact:    "I turn coffee ☕ into code at midnight 🌙",
 };
 ```
 
-- 🎓 Currently pursuing my **BSc in  Software Engineering**
+- 🎓 Currently pursuing my **BSc in Software Engineering**
 - 💻 Passionate about **web & mobile** app development
 - 🌱 Always learning — currently diving deeper into **TypeScript & DevOps**
 - 🤝 Open to **collaborations**, **internships**, and **open source contributions**
@@ -81,7 +82,7 @@ Other       ░░░░░░░░░░░░░░░░░░░░░░�
 ## 🚀 Featured Projects
 
 ### 🛒 POS System — Laravel
->  Project
+> University Project
 
 A full-featured **Point of Sale system** built with Laravel for small businesses in Sri Lanka.
 
@@ -121,6 +122,25 @@ An **educational mobile app for children** with interactive lessons and parent m
 
 ---
 
+### 🌐 Portfolio Website — Next.js
+> Personal Project
+
+A modern **developer portfolio** built with Next.js, TypeScript and deployed on GitHub Pages.
+
+**Key Features:**
+- ✨ Animated hero section with typewriter effect
+- 📊 Animated stats counter
+- 📱 Fully responsive design
+- 🚀 Deployed via GitHub Actions CI/CD
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+🌐 Live &nbsp;|&nbsp; [`Visit Site →`](https://darkfighterk.github.io/portfolio-project) &nbsp;|&nbsp; [`View Repo →`](https://github.com/darkfighterk/portfolio-project)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
@@ -157,7 +177,7 @@ An **educational mobile app for children** with interactive lessons and parent m
 
 ```
 2026 – Present  ● 3RD Year Student
-                  BSc (Hons)  Software Engineering
+                  BSc (Hons) Software Engineering
                   Working on POS System (Laravel) final year project.
                   Active open source contributor on GitHub.
 
@@ -171,7 +191,7 @@ An **educational mobile app for children** with interactive lessons and parent m
                   Designed and developed a full POS system with inventory,
                   invoicing and role-based access control.
 
-2023 – Present  ○ BSc  Software Engineering
+2023 – Present  ○ BSc Software Engineering
                   University — Sri Lanka
                   Algorithms, data structures, software engineering,
                   mobile development, and web technologies.
@@ -201,7 +221,7 @@ Docker / DevOps   █████████████████░░░�
 [![GitHub](https://img.shields.io/badge/GitHub-darkfighterk-22c55e?style=for-the-badge&logo=github)](https://github.com/darkfighterk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anjana-tharindu-379ab137a)
 [![Email](https://img.shields.io/badge/Email-Say_Hi!-red?style=for-the-badge&logo=gmail)](mailto:akanjanatharindu@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-22c55e?style=for-the-badge&logo=vercel)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Live%20Site-22c55e?style=for-the-badge&logo=vercel)](https://darkfighterk.github.io/portfolio-project)
 
 <br/>
 
